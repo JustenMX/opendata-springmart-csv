@@ -1,3 +1,7 @@
-# nut-project2-springmart-csv
+## NTU Software Engineering Project 2
 
-Data source for Spring Mart product data injection to Spring Mart backend
+## Spring Mart (Data Source)
+
+#### ⚠️ DATA UPLOADING IN PROGRESS ⚠️
+
+![WORK IN PROGRESS](https://media.giphy.com/media/G1ifnX4d5tYFACktp9/giphy.gif)
