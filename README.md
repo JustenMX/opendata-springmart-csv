@@ -1,5 +1,3 @@
-## NTU Software Engineering Project 2
-
 ## Spring Mart (Data Source)
 
 #### ⚠️ DATA UPLOADING IN PROGRESS ⚠️
